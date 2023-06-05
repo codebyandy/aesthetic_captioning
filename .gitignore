@@ -144,3 +144,5 @@ testing.ipynb
 bsub.txt
 *.old
 *.out
+
+cs231n.pem
